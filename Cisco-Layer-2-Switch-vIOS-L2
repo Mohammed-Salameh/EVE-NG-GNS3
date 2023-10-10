@@ -4,7 +4,7 @@ Below is guide for how to deploy
 
 Step 1: navigate to Edit --> Preferences -->  QEMU --> Qemu VMs 
 
-Step 2: click on New --> Name : Cisco vIOS layer 2 switch --> memory 800 MB / Binary: qemu-system-x86_64 --> telnet/vnc/spice depends on what you like next
+Step 2: click on New --> Name : Cisco vIOS layer 2 switch --> memory 768 MB / Binary: qemu-system-x86_64 --> telnet/vnc/spice depends on what you like next
 
 step 3:  New Image --> click on browse --> locate the vmdk 
 
@@ -12,7 +12,7 @@ step 4: finish
 
 step 5: deploy the appliance 
 
-Note: if you face reboot loop issue when starting the switch just increase the memory to 800 MB
+Note: if you face reboot loop issue when starting the switch just increase the memory to 768 MB
 Note: you can use the vIOS-L2 IOS image for Cisco CCNA and Cisco CCNP exams.
 
 Link for download:
