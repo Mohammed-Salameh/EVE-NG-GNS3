@@ -1,13 +1,13 @@
 # Troubleshooting Guide for EVE-NG Permession Error
 
-If you encounter errors while executing `/opt/unetlab/wrappers/unl_wrapper -a fixpermissions` on UNetLab, follow this guide to troubleshoot and resolve the issues. The errors may look like one of the following:
+If you encounter errors while executing `/opt/unetlab/wrappers/unl_wrapper -a fixpermissions` on eve-ng, follow this guide to troubleshoot and resolve the issues. The errors may look like one of the following:
 
 - PHP Notice: file_get_contents(): read of 8192 bytes failed with errno=21 Is a directory in /opt/unetlab/html/includes/init.php on line 71
 - PHP Warning: file_get_contents(/opt/unetlab/platform): failed to open stream: No such file or directory in /opt/unetlab/html/includes/init.php on line 71
 
 ## Prerequisites
 
-- Ensure you have root access to the UNetLab server.
+- Ensure you have root access to the eve-ng server.
 
 ## Troubleshooting Steps
 
