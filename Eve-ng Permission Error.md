@@ -1,4 +1,3 @@
-
 # Troubleshooting Guide for UNetLab Execution Errors
 
 If you encounter errors while executing `/opt/unetlab/wrappers/unl_wrapper -a fixpermissions` on UNetLab, follow this guide to troubleshoot and resolve the issues. The errors may look like one of the following:
@@ -39,5 +38,3 @@ If you encounter errors while executing `/opt/unetlab/wrappers/unl_wrapper -a fi
 
 After completing these steps, try running `/opt/unetlab/wrappers/unl_wrapper -a fixpermissions` again. This should resolve the errors you were experiencing.
 ```
-
-This markdown guide provides a structured approach to troubleshoot and fix the specified errors in UNetLab.
