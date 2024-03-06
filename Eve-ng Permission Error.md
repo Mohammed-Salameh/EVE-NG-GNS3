@@ -1,4 +1,4 @@
-# Troubleshooting Guide for UNetLab Execution Errors
+# Troubleshooting Guide for EVE-NG Permession Error
 
 If you encounter errors while executing `/opt/unetlab/wrappers/unl_wrapper -a fixpermissions` on UNetLab, follow this guide to troubleshoot and resolve the issues. The errors may look like one of the following:
 
