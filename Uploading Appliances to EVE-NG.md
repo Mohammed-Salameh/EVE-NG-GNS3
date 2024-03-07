@@ -3,6 +3,8 @@ This guide provides a step-by-step process on how to upload appliance files to y
 ## Prerequisites
 
 - Ensure you have EVE-NG installed and accessible.
+[Github For Appliances website](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG?tab=readme-ov-file).
+[All Appliances](https://labhub.eu.org/UNETLAB%20II/addons/qemu/).
 - Download and install FileZilla Client from [FileZilla's website](https://filezilla-project.org/).
 - Obtain the appliance file(s) you wish to upload.
 
