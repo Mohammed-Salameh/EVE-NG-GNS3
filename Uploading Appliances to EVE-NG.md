@@ -75,8 +75,6 @@ Once connected, you need to navigate to the appropriate directory where applianc
 - **Permission Errors:** If EVE-NG can't access the appliance, ensure you've set the permissions correctly to `755`.
 - **Appliance Not Showing:** Double-check that you've uploaded the files to the correct directory and that the directory name matches the appliance name.
 
-For further assistance, refer to the EVE-NG community forums or the official documentation.
-
 ---
 
 This guide aims to simplify the process of uploading appliances to your EVE-NG environment using FileZilla.
