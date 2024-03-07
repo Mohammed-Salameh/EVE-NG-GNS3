@@ -23,6 +23,9 @@ This guide provides a step-by-step process on how to upload appliance files to y
    - **Port:** Typically, `22` for an SFTP connection.
 3. Click `Quickconnect` to establish a connection to your EVE-NG server.
 
+![image](https://github.com/Mohammed-Salameh/Network-emulators/assets/140098574/5be3586b-8517-4932-aae1-7fdac23e4ec2)
+
+
 ### Step 2: Navigate to the Correct Directory
 
 Once connected, you need to navigate to the appropriate directory where appliance files should be uploaded.
