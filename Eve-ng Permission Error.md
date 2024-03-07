@@ -15,6 +15,7 @@ If you encounter errors while executing `/opt/unetlab/wrappers/unl_wrapper -a fi
 
 1. Open the file `/opt/unetlab/html/includes/init.php`.
 2. Check if the 71st line is as follows:
+
    ```php
    $kvm_family = file_get_contents("/opt/unetlab/platform");
    ```
