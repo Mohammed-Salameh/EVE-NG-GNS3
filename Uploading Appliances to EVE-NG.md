@@ -62,8 +62,11 @@ Once connected, you need to navigate to the appropriate directory where applianc
 3. Try to add a new node; the uploaded appliance should now be available in the list of devices.
 
 ![image](https://github.com/Mohammed-Salameh/Network-emulators/assets/140098574/587d180b-c4b2-4f98-8288-927971660c4b)
+
 ![image](https://github.com/Mohammed-Salameh/Network-emulators/assets/140098574/0ea0a10e-6a75-49b8-b5a7-a5ee41cb56c5)
+
 ![image](https://github.com/Mohammed-Salameh/Network-emulators/assets/140098574/cc4b8a1f-ef8f-4859-86e7-50c1c1ca37a3)
+
 ![image](https://github.com/Mohammed-Salameh/Network-emulators/assets/140098574/27387358-8ba0-4700-8f5c-caa6f300721e)
 
 ## Troubleshooting
