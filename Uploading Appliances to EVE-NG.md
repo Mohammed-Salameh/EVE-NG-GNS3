@@ -1,6 +1,4 @@
-This guide provides a step-by-step process on how to upload appliance files to your EVE-NG instance using FileZilla, a popular FTP client. Uploading appliances allows you to add new devices and tools to your EVE-NG environment, expanding your network simulation capabilities.
-
-## Prerequisites
+This guide provides a step-by-step process on how to upload appliance files to your EVE-NG instance using FileZilla, a popular FTP client.
 
 - Ensure you have EVE-NG installed and accessible.
 - Download and install FileZilla Client from [FileZilla's website](https://filezilla-project.org/).
