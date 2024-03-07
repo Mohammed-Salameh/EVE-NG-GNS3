@@ -27,6 +27,7 @@ If you encounter errors while executing `/opt/unetlab/wrappers/unl_wrapper -a fi
    dmesg | grep -i cpu | grep -i -e intel -e amd
    ```
 2. Based on the output, follow the appropriate step:
+
    - If the output includes "Intel", execute:
      ```bash
      echo "intel" > /opt/unetlab/platform
