@@ -4,18 +4,15 @@ This repository is dedicated to providing comprehensive guides, troubleshooting 
 
 ## GNS3 (Graphical Network Simulator-3)
 
-### Troubleshooting
-- **Common Issues:** Covers solutions to typical problems encountered by GNS3 users, including installation errors, connectivity problems, and device emulation issues.
+Covers solutions to typical problems encountered by GNS3 users, including installation errors, connectivity problems, and device emulation issues.
   
 ## EVE-NG (Emulated Virtual Environment Next Generation)
 
-### Troubleshooting
-- **Troubleshooting Common EVE-NG Problems:** Guidance on resolving issues related to device emulation, network connectivity, and performance optimization.
+Guidance on resolving issues related to device emulation, network connectivity, and performance optimization.
 
 ## PnetLab
 
-### Troubleshooting
-- **PnetLab Common Issues:** Addresses typical challenges faced by PnetLab users, including lab setup difficulties, device integration problems, and performance tuning.
----
+Addresses typical challenges faced by PnetLab users, including lab setup difficulties, device integration problems, and performance tuning.
 
-We encourage contributions to this repository! If you have guides, troubleshooting tips, or best practices related to these network emulators, please feel free to contribute. Together, we can build a valuable resource for the network emulation community.
+
+**We encourage contributions to this repository! If you have guides, troubleshooting tips, or best practices related to these network emulators, please feel free to contribute. Together, we can build a valuable resource for the network emulation community.**
